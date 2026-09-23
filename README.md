@@ -306,3 +306,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=520&lines=build+%7C+ship+%7C+scale+%7C+repeat;AI+is+the+new+computing+layer;turning+ideas+into+production+systems;open+source+always;building+from+India;SypherX+%7C+AI+%7C+Software" alt="footer typing" />
 </div>
+![Active Contributor](https://img.shields.io/badge/5%20PR%20MILESTONE-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=white&labelColor=8465FF)
