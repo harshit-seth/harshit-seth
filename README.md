@@ -154,6 +154,7 @@
 <img src="https://img.shields.io/badge/Go%20Development-000000?style=flat-square&logo=go&logoColor=00d4ff" />
 <img src="https://img.shields.io/badge/Engineering-000000?style=flat-square&logo=github&logoColor=9d00ff" />
 <img src="https://img.shields.io/badge/Production%20Systems-000000?style=flat-square&logo=docker&logoColor=00ff9d" />
+<img src="https://img.shields.io/badge/5%20PR%20MILESTONE-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=white&labelColor=8465FF" />
 
 </td>
 </tr>
@@ -284,7 +285,7 @@
 <img src="https://img.shields.io/badge/GITHUB-Harshit%20Seth-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
-<a href="https://www.linkedin.com/in/harshitseth777/">
+<a href="https://www.linkedin.com/in/harshitseth1/">
 <img src="https://img.shields.io/badge/LINKEDIN-Harshit%20Seth-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff" />
 </a>
 
@@ -306,4 +307,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=520&lines=build+%7C+ship+%7C+scale+%7C+repeat;AI+is+the+new+computing+layer;turning+ideas+into+production+systems;open+source+always;building+from+India;SypherX+%7C+AI+%7C+Software" alt="footer typing" />
 </div>
-![Active Contributor](https://img.shields.io/badge/5%20PR%20MILESTONE-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=white&labelColor=8465FF)
