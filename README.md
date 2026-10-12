@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=0,0,0,0|25,0,255,157,0.5|50,0,212,255,0.5|75,157,0,255,0.5|100,0,0,0,1&height=280&section=header&text=Harshit%20Seth&fontAlignY=32&fontSize=74&fontColor=ffffff&stroke=00ff9d&strokeWidth=1.5&animation=fadeIn&desc=AI%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20FOUNDER%20OF%20SYPHERX%20%E2%80%A2%20INDIA&descAlignY=58&descSize=14&descColor=00d4ff&reversal=false" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00FF9D&center=true&vCenter=true&random=false&width=680&lines=Harshit+Seth;AI+Full+Stack+Developer;Founder+of+SypherX;Building+AI-Powered+Software;Engineering+Products+from+Idea+to+Production;Open+Source+Contributor;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00FF9D&center=true&vCenter=true&random=false&width=680&lines=Harshit+Seth;Software+Development+Engineer;Founder+of+SypherX;Building+AI-Powered+Software;Engineering+Products+from+Idea+to+Production;Open+Source+Contributor;Building+the+Future+with+AI" alt="Typing SVG" />
 </a>
 
 <br>
